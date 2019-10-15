@@ -1,6 +1,6 @@
 # ntl-metrics-ingest
 
-This is script that takes data from a specific CSV file format and uploads data to a specific Google Sheets document.
+This is a utility script that updates a Google Sheets file using two local csv files. Not for generic use.
 
 ## Getting Started
 
