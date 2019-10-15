@@ -1,4 +1,4 @@
-# nl-metrics-ingest
+# ntl-metrics-ingest
 
 This is script that takes data from a specific CSV file format and uploads data to a specific Google Sheets document.
 
